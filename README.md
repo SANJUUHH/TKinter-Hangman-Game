@@ -50,4 +50,5 @@ The space complexity is O(n), where n is the length of the word, due to the stor
 
 ![Hangman Game Screenshot](img5.png)
 
+Last image :
 ![Hangman Game Screenshot](congratsImg.png)
