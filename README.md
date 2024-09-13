@@ -23,7 +23,7 @@ This is a Hangman game implemented in Python using the Tkinter library. The game
 3. Run the following command:
 
     ```bash
-    python hangman_tkinter.py
+    python WordsGuessingGame.py
     ```
 
 4. A GUI window will appear where you can start guessing the word.
