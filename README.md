@@ -39,7 +39,15 @@ The time complexity of this game depends on the number of letters in the word. F
 The space complexity is O(n), where n is the length of the word, due to the storage of the word and guessed letters.
 
 ## Screenshot
+
 ![Hangman Game Screenshot](img1.png)
+
 ![Hangman Game Screenshot](img2.png)
+
 ![Hangman Game Screenshot](img3.png)
 
+![Hangman Game Screenshot](img4.png)
+
+![Hangman Game Screenshot](img5.png)
+
+![Hangman Game Screenshot](congratsImg.png)
